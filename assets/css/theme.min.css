@@ -82,7 +82,7 @@
 		|- 4.4. Text Block
 
 	6. PARTIALS
-		|- 6.1. Search Results 
+		|- 6.1. Search Results
 		|- 6.2. 404 Not Found
 		|- 6.3. Sidebar
 		|- 6.4. Page Frame
@@ -2948,7 +2948,7 @@ div:not(.carousel-item-inner) > .liquid-img-group-container .liquid-img-group-si
 .lqd-parallax-images-3 .liquid-img-group-single:nth-child(2) { top: 0px; right: 10%; left: 10%; }
 .lqd-parallax-images-3 .liquid-img-group-single:last-child { top: 12%; right: 23%; left: 13%; }
 
-.lqd-parallax-images-4 .liquid-counter { font-family: 'Scheherazade', serif !important; font-weight: 400; color: #bba07a; }
+.lqd-parallax-images-4 .liquid-counter { font-family: 'brandon-grotesque', sans-serif !important; font-weight: 400; color: #bba07a; }
 
 .lqd-parallax-images-4-alt .liquid-counter { font-family: inherit !important; }
 .lqd-parallax-images-4-alt .liquid-counter-element { font-size: 80px; }
