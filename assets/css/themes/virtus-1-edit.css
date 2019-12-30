@@ -117,3 +117,7 @@ h6 {
   font-family: 'Merriweather';
   font-size: 0.8em;
 }
+
+.bg-cover .ld_sf_response-success p, .bg-cover .ld_sf_response-error p {
+    color: white;
+}
