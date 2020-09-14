@@ -107,6 +107,10 @@ h6 {
 
     /* BP custom adds */
 
+#content li, p {
+  font-family: atten-round-new, sans-serif;
+}
+
 .liquid-lp-featured .liquid-lp-inner h2 a {
   font-family: 'Merriweather';
   font-style: italic;
