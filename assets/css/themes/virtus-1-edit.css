@@ -107,7 +107,7 @@ h6 {
 
     /* BP custom adds */
 
-#content li, #content p {
+.written-content li, .written-content p {
   font-family: atten-round-new, sans-serif;
 }
 
