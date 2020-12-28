@@ -83,7 +83,7 @@ h6 {
     color: rgba(255, 255, 255, 0.6); }
     .main-footer a:not(.btn):hover {
       color: #fff; }
-
+/*
 @media (min-width: 1200px) {
   .main-header .is-stuck {
     background: #fff !important; }
@@ -103,7 +103,7 @@ h6 {
     border-color: #224d55;
     color: #fff; }
   .is-stuck .btn:hover, .is-stuck .btn.btn-solid:hover {
-    background-color: #224d55; } }
+    background-color: #224d55; } } */
 
     /* BP custom adds */
 
@@ -126,6 +126,30 @@ h6 {
     color: white;
 }
 
+.titlebar-sm .titlebar-inner {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
 .main-nav > li > a {
   font-size: 15px;
 }
+
+.navbar-brand {
+  padding-left: 34px;
+  padding-right: 40px; }
+
+  .main-header .header-module .btn {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    color: rgba(255, 255, 255, 0.85); }
+    .main-header .header-module .btn:hover {
+      color: #fff; }
+
+  .main-header .header-module .social-icon {
+    font-size: 22px; }
+    .main-header .header-module .social-icon a {
+      color: rgba(255, 255, 255, 0.6); }
+      .main-header .header-module .social-icon a:hover {
+        color: #fff; }
